@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#Stack
+Stack/stack_implementation_using_array
